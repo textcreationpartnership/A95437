@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo letters from the agents of the five regiments of horse, the one to the whole souldiery of the Army, the other to some who sent unto them, to receive further information and satisfaction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95437</idno>
+            <idno type="STC">Wing T3463</idno>
+            <idno type="STC">Thomason E412_6</idno>
+            <idno type="STC">ESTC R203849</idno>
+            <idno type="EEBO-CITATION">99863651</idno>
+            <idno type="PROQUEST">99863651</idno>
+            <idno type="VID">115861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115861)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E412[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo letters from the agents of the five regiments of horse, the one to the whole souldiery of the Army, the other to some who sent unto them, to receive further information and satisfaction.</title>
+                  <author>Everard, Robert, fl. 1664.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on A4r: Robert Everard [and 11 others].</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 28 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters">
+            <pb n="1" facs="tcp:115861:1" rendition="simple:additions"/>
+            <head>TVVO LETTERS From the Agents of the five Regi<g ref="char:EOLhyphen"/>ments of Horſe, the one to the whole ſouldiery of the Army, the other to ſome who ſent unto them, to receive further Information and ſatisfaction.</head>
+            <div type="letter">
+               <opener>
+                  <salute>Gentlemen and fellow Souldiers,</salute>
+               </opener>
+               <p>VVEE doubt not but our late endeavours to repreſent your condition to you, and in yours the dolefull condition of the diſtreſ<g ref="char:EOLhyphen"/>ſed Nation, have come to your view, and we queſtion not but ſome envious, ſome ſelf-ſeeking, and ſome prejudicate or deluding perſons are attempting, not onely to make evill conſtructions of the matter of that paper which we have offered, and to miſrepreſent our intentions, on purpoſe, to prepoſſes your ſpirits with prejudice, as to prevent the impartiall view of your Caſe truly ſtated, but alſo by aſ<g ref="char:EOLhyphen"/>perſions and calumnies to alienate yours and the peoples af<g ref="char:EOLhyphen"/>fections from us, and render us odious to you and them; but we are much confident that its ſtill ſo freſh in your memories, that the fowleſt reproaches were moſt unworthily caſt upon the Army, by ſome that were then Members thereof, and by the Parliament it ſelfe, for our moſt harmleſſe and moſt juſt Petition, that you cannot be diverted by ſcandalls, or ground<g ref="char:EOLhyphen"/>leſſe reports, from the moſt impartiall enquiry after the rea<g ref="char:EOLhyphen"/>ſon and juſtice that's propounded to you; its probable, your eares will be filled with objections, and cavills againſt that paper that contains your Caſe; but we deſire you would obſerve or whether ſuch cavils be againſt the ſubſtance or matter joyn<g ref="char:EOLunhyphen"/>tly, or any thing material, &amp; not rather againſt circumſtances,
+<pb n="2" facs="tcp:115861:2"/>manner of expreſſion, and whether the whole intent of the objectors be not onely to cover the neglects and declenſions from our firſt principles with ſome plauſible pretences, there<g ref="char:EOLhyphen"/>by to feede you ſtill with vaine eluſive hopes of obtaining your own rights, and the peoples freedoms, without your appearing as formerly for their recovery; but we know your own moſt ſad experience beares ſuch cleare witneſſe to the truth of the moſt materiall things related, that you cannot be deceived; the Countries pittifull cries tell you there hath been no pay procured, and their mournfull complaints and bitter groanes, yea their loud-outcries againſt you (as thoſe who have co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zened them with fayre promiſes of reliefe and freedome) witneſſe to purpoſe, that the Countries rights are not ſetled, nor their grievances redreſſed; the Parliaments in<g ref="char:EOLhyphen"/>ability to procure any good for you or the people teſtifie, that the faith of the Army (paſſed in our Declarations, &amp; pro<g ref="char:EOLhyphen"/>teſts, for purging the Houſe) is broken; your backs and purſes tell you, there are no Arrears procured, &amp;c. but if in any thing be doubtfull, we queſtion not to ſatisfie you, and we hope you are ſo ſenſible, that your deare native Countrey, and your ſelves have pined away and conſumed ſo long by feeding up<g ref="char:EOLhyphen"/>on empty words and fayre promiſes, that you cannot be in<g ref="char:EOLhyphen"/>duced to ſit ſtill any longer to hazard the ruine of your ſelves and the people; but we profeſſe our Conſciences witneſſe, that we have dealt ſo plainly and candidly, out of the inte<g ref="char:EOLhyphen"/>grity of our hearts, without any ſelfe-intereſts or by-ends, that we judge it vaine and uſeles to compoſe arguments inducing any to concurr with us, but we are confident that the effectuall meanes offered in our paper for ſpeedy ſecurity to the Army and people, their rights and freedoms will plead ſufficiently with every Heroick publick ſpirit to joyne heart and hand in ſo juſt an undertaking as is offered.</p>
+               <p>But it may be ſome would affright you from owning your Gaſe, as its now offered, by ſuggeſting that its irregular and diſorderly for the Souldiers to joyne in any thing before th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir Officers, or that its contrary to Law for you to de<g ref="char:EOLhyphen"/>mand your rights, or that its a reſiſting of Authority, but we deſire that our Declaration of <hi>Iu.</hi> 14 <hi>p.</hi> 4.5. might be review<g ref="char:EOLhyphen"/>ed, wherein it appears that the Parliament hath declared that
+<pb n="3" facs="tcp:115861:2"/>the equitable ſenſe of the Law is ſupreame to the Letter, and doth diſpenſe with it, when a peoples ſafety is concerned; &amp; that all Au<g ref="char:EOLhyphen"/>thority is fundamentally ſeated in the office, and but miniſterially in the perſons; and that therefore its no reſiſting of Authori y, or Magiſtracy, to ſide with the juſt principles and Law of Nature and Nations, to preſerve a people from periſhing; and let it be remem<g ref="char:EOLhyphen"/>bred, that if you had not joyned together at firſt, &amp; choſe your A<g ref="char:EOLhyphen"/>gents to act for you when your Officers thought it not ſafe for them to appeare, you had beene now in no capacity to plead for your own or the peoples freedomes; and let it be conſidered, that <hi>Scotland</hi> aſſociated in Covenant, and ſo by conſent compoſed an ar<g ref="char:EOLhyphen"/>my to ſtand upon principles of right and freedome, when they had no viſible forme either of Parliament or King to countenance them, and they were therein juſtified &amp; protected by their owne &amp; this Nation, &amp; may not this Army expect juſtly to be in like manner protected and juſtified in their joyning together, to inſiſt upon the ſettlement of thoſe freedomes, which they have purchaſed with their bloud out of the hands of the Common-Enemy which God hath ſubdued by them.</p>
+               <p>But if any envious tongues ſhall bee blaſting us with Anarchy, clamouring that we intend to deſtroy Government in the Kingdom and Army, and bring all into confuſion: we ſuppoſe the aſperſion it ſelfe is ſo irrationall, that it will rather give you the true Character of every ſuch Aſperſor, then reflect upon us to our prejudice. Let it be obſerved, that the chiefe foundation for all our rights and free<g ref="char:EOLhyphen"/>domes, which we are reſolved moſt abſolutely to inſiſt upon, is, a certainty of a conſtant Parliament every two yeares, and a certaine time for their ſitting &amp; ending; and a ſure eſtabliſhment of the juſt power that the people betruſt to thoſe their Repreſentatives in their Election, that they may make Lawes and repeale Lawes, place and diſplace all Magiſtrates, and exerciſe all other power according to their truſt, without the conſent or concurrence of any other per<g ref="char:EOLhyphen"/>ſon or perſons whatſoever; and we appeale to all rational men, whe<g ref="char:EOLhyphen"/>ther in this we ſtrive not for the freedome that we firſt engaged to maintaine.</p>
+               <p>But we hope we ſhal ſpeedily give ſuch clear evidence to the whole world of our reſolutions to joyn with you, and all the free-born people of this Nation, to eſtabliſh immediatly the undoubted prin<g ref="char:EOLhyphen"/>ciples and rules of equall and juſt Government, that the mouth of malice it ſelfe ſhall be for ever ſtopped.</p>
+               <pb n="4" facs="tcp:115861:3"/>
+               <p>Now it may be when the Juſtice of our endeavours ſhall ſhine through all other reproaches; ſome will be muttering, that wee have deſigned to divide the Army, or the Souldiers from the Offi<g ref="char:EOLhyphen"/>cers; but we appeale to your own conſciences, whether perſwaſions to be faithfull in obſerving our Declarations, Promiſes, and En<g ref="char:EOLhyphen"/>gagement, wherein we joyned unanimouſly, tend to diviſion? is not this the ſumme of all that we have offered, viz. That your own and the peoples neceſſities, and the imminent danger of ruine, or at leaſt ſlavery to you and them, calls you to renew your union in the for<g ref="char:EOLhyphen"/>mer deſires, and in inſiſting upon ſutable anſwers ſpeedily, leſt you &amp; the people be confounded and periſh by delayes? and is this to divide? and as for rending from Officers, let it be remembred, that though the ſouldiers acted without them at firſt, yet thoſe who were faithfull, did afterward concur with them.</p>
+               <p>Gentlemen, We doubt not but the hazarding of our lives toge<g ref="char:EOLhyphen"/>ther for our Countries freedome, have ſo endeared us each to other, and ſo imprinted the principles of common freedome in our hearts, that its impoſſible to divide us each from other, whileſt wee inſiſt upon the ſame principles; and therefore wee preſume to ſend, that you might ſpeeeily manifeſt your concurrence with us in a firme re<g ref="char:EOLhyphen"/>ſolution, to inſiſt ſpeedily upon the ſouldiers Rights, Englands free<g ref="char:EOLhyphen"/>domes, to be ſecured and ſetled, that ſo neither the diſtreſſed Com<g ref="char:EOLhyphen"/>mons might any longer languiſh under oppreſſion, and their eyes fayle with expecting deliverance, nor the Army be the object of p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verty, contempt, ſcorne, and hatred; But through the aſſiſtance of the Almighty God (who we doubt not will beare witneſſe to the Juſtice of the Caſe) wee may proceed to procure redreſſe for theſe Grievances throughly and effectually, and ſecurity for their native freedomes, that ſo they may be in a capacity to raiſe our arreares for us chearfully and readily; and by this meanes, juſt peace &amp; com<g ref="char:EOLhyphen"/>mon right and freedome might be firmely and ſecurely eſtabliſhed, We ſhall adde no more, but that the anſwer is much longed for, by</p>
+               <closer>
+                  <signed>Yours &amp;c.</signed>
+               </closer>
+               <trailer>For our honoured friends and fellow-ſouldiers of the ſeverall Regiments, under command of his Ex<g ref="char:EOLhyphen"/>cellency Sir Thomas Fairfax, theſe.</trailer>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:115861:3"/>
+               <opener>
+                  <salute>Honoured Gentlemen and fellow ſouldiers.</salute>
+               </opener>
+               <p>WEe ſalute you with all due reſpects: we received your Meſſ<g ref="char:EOLhyphen"/>age, and rejoyce much to ſee you inquiring after Juſtice, Common rights, and freedomes, though we are much troubled to heare, that many ſhould endeavour to hide the truth of yours and the Kingdomes Caſe, and to induce you ſtill to ſuffer the delatory proceedings, that threatens deſtruction to the Army and whole Nation: you deſire ſatisfaction from us, concerning the truth of the matters of fact related in our papers (entituled, <hi>The Caſe of the Army,</hi> &amp;c.) and we profeſſe, all that there is related hath been ſo publike, that we wonder at the audacity of any to de<g ref="char:EOLhyphen"/>nye them, we can appeale to your own experience for the truth of the moſt of thoſe things mentioned; is it not too too evident, the neither we nor our Officers have been vindicated in point of ho<g ref="char:EOLhyphen"/>nour or right concerning that Order and Declaration publiſhed a<g ref="char:EOLhyphen"/>gainſt us, for though by publike Declaration to the whole world we were aſperſed and branded to poſterity for enemies and tray<g ref="char:EOLhyphen"/>tors to the publike peace in print, yet we have not as to the equity or right of our Petition; or to our honour or fidelity to the ſtate been vindicated (anſwerable to the ignominy caſt upon us) to the world by a Declaration from the Houſe.</p>
+               <p>Do not the poor Countries pittifull cryes, and your non-pay<g ref="char:EOLhyphen"/>ment of quarters; witneſſe that you have had no pay, much leſſe your Arreares?</p>
+               <p>Do not the manifeſt vexatious Suites at Law (now depending a<g ref="char:EOLhyphen"/>gainſt many that have engaged in the late warre) teſtifie that there is no ſufficient Indempnity?</p>
+               <p>Do not the diſhonourable, uncertaine proviſion for Widdowes, maimed Souldiers, &amp;c. manifeſt, that no ſuch proviſion is made for them as is anſwerable to our deſires?</p>
+               <p>And for the common freedoms we are confident none will pre<g ref="char:EOLhyphen"/>ſume to averr, that there are any ſetled: And we deſire you to con<g ref="char:EOLhyphen"/>ſider, that delayes have made the Kingdome almoſt ſink already under their burdens, and in a few weekes the Countrey (for ought we know or can ſecure our ſelves of) may ſerve us as once the Danes were ſerved. <hi>viz.</hi> cut our throates.</p>
+               <p>Now by this it is apparent, that the firſt principles have been declined or neglected at leaſt.</p>
+               <p>Touching the breach of the Engagement in dividing the Army to ſo great a diſtance each from other, this is known to all.</p>
+               <p>And as for the breach of the engagement in reſpect of disband<g ref="char:EOLhyphen"/>ment of the Trayne is it not evident?</p>
+               <pb n="6" facs="tcp:115861:4"/>
+               <p n="1">1. In regard the Muſter-Maſter of the Traine, hath Order to Muſter no more in the capacity of a Traine.</p>
+               <p n="2">2. That the two Agitators of the Trame, Mr. <hi>Tom<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ins</hi> &amp; Mr. <hi>Ro<g ref="char:EOLhyphen"/>binſon</hi> are appointed to be Captaines over two Companies, to be rayſed and placed in the Tower.</p>
+               <p n="3">3. That the two Companies of Fire-lockes for the Guard of that marching Trayne, part of which is in <hi>Wallingford,</hi> and part in <hi>Wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> have orders to march to the Tower, and one that had little or no relation to the Army, is to receive Adjutant Generall <hi>Deans</hi> Com<g ref="char:EOLhyphen"/>pany to be Captaine over it.</p>
+               <p n="4">4. That four Quartermaſters of Draught-horſes have already li<g ref="char:EOLhyphen"/>ſted themſelves Officers in ſeverall Companies, and are providing to leave their charges in the Traine.</p>
+               <p n="5">5. That of eight Quartermaſters of Draught-horſes but one con<g ref="char:EOLhyphen"/>tinues, who will have the charge of ſome 60. horſes, to draw the Carriages of the Generall and Generall Officers only.</p>
+               <p n="6">6. That all the other Quartermaſters that do not liſt themſelves in Foot Companies, or other plices, are to be quite put off; as alſo neere 200. Wagons that belong to the Quartermaſters, unleſſe they will be private ſouldiers,</p>
+               <p n="7">7. That all the Pioneers and their Officers; as alſo the Artificers, viz. the Wheelers, Carpenters, Farriers, Black-ſmiths, Gun-ſmiths, Fasket makers, Rope makers, Coller makers, and ladle makers, &amp; others, are to be put off forthwith.</p>
+               <p n="8">8. That thoſe Gentlemen of the Ordinance, and Gunners, and Matroſſes that ſtand, but not in the capacity of a Trayne, are to be ſent with ſeverall Regiments, having no particular Commanders appointed over them, as Lieutenant Generall, or Comptrolers, to hear their ſeverall addreſſes.</p>
+               <p>That Mr. <hi>Peters</hi> who belonging to the Trayn, and is one of the moſt knowing men, from whom intelligence could be expected, informed all, who enquired, that the Trayne were to receive onely this moneths pay, and to be disbanded: ſo likewiſe Comp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roller <hi>Deane,</hi> and every Colonell that was asked cencerning it.</p>
+               <p>As for refuſing to ſtand as <hi>Engliſhmen</hi> for our Nations freedom, and perſwading the Souldiers and Agitators, that they ſtood as Souldiers onely: we ſuppoſe ſuch arguings have been too publike at the head Quarters, for any to have the face to denye it.</p>
+               <p>As for that unworthy ſcandall, that we intend to divide the Ar<g ref="char:EOLhyphen"/>my, we do not onely profeſſe, that we abhorr thoughts of any ſuch
+<pb n="7" facs="tcp:115861:4"/>deſigne, but we wonder that envy it ſelfe hath the face to caſt this aſperſion upon us.</p>
+               <p>We beſeech you, conſider, Is it to divide the Army, to perſwade them all, and uſe our utmoſt endeavours to unite them in inſiſting upon the firſt principles, whereupon we all engaged each to o<g ref="char:EOLhyphen"/>ther, that we would not divide each from other, untill the common rights of the ſouldiery &amp; people were ſetled? ſhall it be counted a deſigne to devide, to endeavour ſuch a ſpeedy ſettlement of what we have declared, that the deſignes of the common Enemy to divide us, and perſwade us to deſert the Publique intereſt, might be prevented? believe it (Gentlemen) to perſwade you to ſit ſtill while you want pay, and the people their rights, is to nouriſh diſcon<g ref="char:EOLhyphen"/>tentments in the Army and the people, and to divide betwixt the people and the Army, &amp; one part of the army from another. D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th not experience witneſſe, that while you ſit ſtill, diſtractiens increaſe dayly ſome blame one, ſome another, there are the ſeeds of diviſion dayly ſowne; and hath not the King his Agents in all our Quar<g ref="char:EOLhyphen"/>ters, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o kindle and blow up the coales of heart-burnings &amp; diviſions? We queſtion no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, but the all ſeeing God will beare witneſſe to the ſimplicity of our intentions. We have now only one thing to deſire of you, that in what particulars ſoever you are unſatisfied, you would acquaint us with them diſtinctly, and that whatſoever may be ſuggeſted to you againſt us, or whatſoever pretences ſhall bee, that we repreſent your ſtates falſly, that in all ſuch matters, you would hear our anſwer, before you paſſe judgment upon us. And we are confident, we ſhall make the uprightneſſe of our hearts and actions in this caſe, to appear beyond the contradiction of Envy it ſelfe. Thus from former experience of your fidelity to the common Caſe of the Army, &amp; the whole Nation, promiſing to our ſelves, that your exquiting into the bottome of our preſent Caſe is on purpoſe to ſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le your reſolutions to concur with us upon ſuch ſure foundations, that you may ſtand againſt all oppoſition; we ſhall only add a deſire of your acceptance of the moſt cordiall affections of</p>
+               <closer>
+                  <signed>
+                     <hi>Your and all the Peoples faithfull ſervants,</hi>
+                     <list>
+                        <item>Robert Everard,</item>
+                        <item>George Sadler,</item>
+                        <item>John Taylor.</item>
+                        <item>George Garrer,</item>
+                        <item>Tho. Beverley.</item>
+                        <item>William Prior.</item>
+                        <item>William Bryan.</item>
+                        <item>Matthew Wealy.</item>
+                        <item>William Ruſſell.</item>
+                        <item>Richard Seale.</item>
+                        <item>John Dober.</item>
+                        <item>William Hudſon. <hi>Agents to the five Regiments.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="8" facs="tcp:115861:5"/>
+               <opener>
+                  <salute>GENTLEMEN.</salute>
+               </opener>
+               <p>
+                  <hi>WE mention not in this our Anſwer the publique and known de<g ref="char:EOLhyphen"/>clining of the Declaration of the</hi> 17. <hi>of Iune, for purging the houſe; nor that Remonſtrance of Iune the</hi> 23. <hi>for paying the Army equall to thoſe that deſerted it; nor the falling off from the Remonſtrance on Auguſt the</hi> 18. <hi>wherein we proteſted, that we would not ſuffer thoſe that were guilty of ſuch treaſonable breaches of their truſt, in uſurping the name and power of a Parliament, and voting for a warre to deſtroy us, and for the Kings coming to London upon his own tearmes, to ſit in Parliament, and yet between</hi> 60. <hi>and</hi> 70. <hi>of thoſe ſit there, and nothing is viſibly intended to be done, for their removeall. Theſe and many ſuch we mention not, as too palpable to be hidden, and in this our Poſtſcript, we cannot but adde one deſire more, that you would conſider the caſe of the Army ſtated joyntly, and not judge according to cavils &amp; objecti<g ref="char:EOLhyphen"/>ons, that may be made againſt words and clauſes, but to make a candid conſtruction of every clauſe or ſentence, alwayes ayming to find out our ſenſe and meaning.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
